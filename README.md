@@ -1,19 +1,49 @@
-### Hi 👋
+<h1 align="center">👋 Hi, I'm Jorge De la Cruz Padilla</h1>
 
-I’m a software engineer with more than 5 years of experience. I have experience with Javascript (and Typescript), Node.js and React.js. I’ve worked with Express.js, Koa.js and Serverless as Node.js frameworks. I built a lot of websites with Next.js and others with Nuxt.js. Also I’ve worked with AWS products as DynamoDB, SQS, EC2 and S3. In my first years of work, I worked with PHP (Laravel framework) and Vue.js. I like to work with Visual Code Studio, GitHub, Jira, Postman, Slack to help me to work better.
+<p align="center">
+  <strong>Senior Software Engineer</strong><br/>
+  Expert in React, Next.js, Node.js · AI-Powered Full-Stack Development
+</p>
 
+---
+
+### 🚀 About Me
+
+I'm a **Senior Software Engineer** with professional experience since **2016**, passionate about building modern, scalable, and user-centric web applications.
+
+💡 I started my journey working with **Vue.js, Nuxt.js, and MySQL**, and evolved to specialize in a powerful stack based on:
+
+- **Frontend:** React.js · Next.js · Tailwind CSS · TypeScript
+- **Backend:** Node.js · Express.js · MongoDB · Serverless
+- **Cloud & DevOps:** AWS (S3, EC2, DynamoDB, SQS) · Vercel · Netlify
+- **Productivity Tools:** Cursor (AI), Visual Studio Code, GitHub, Jira, Slack, Postman, Notion
+
+I’m especially interested in **AI-augmented development workflows** — using tools like **Cursor** to boost productivity, improve code quality, and ship faster.
+
+---
+
+### 🌱 What I'm Working On
+
+- Enhancing **user experience** and **performance** through better architecture and design.
+- Driving key features that impact **engagement**, **retention**, and **metrics**.
+- Building tools and practices that scale in fast-paced, product-driven teams.
+
+---
+
+### 🧠 Philosophy
+
+> _"I believe in writing clean, maintainable code that balances performance, design, and usability."_  
+> _"As a proud builder from the public university system, I know the value of resilience, community, and accessible knowledge."_
+
+---
+
+### 🌐 Connect with Me
+
+- 🔗 **Portfolio:** [jorgedelacruzpadilla.dev](https://jorgedelacruzpadilla.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/jorgedelacruz07](https://linkedin.com/in/jorgedelacruz07)
+
+---
 
 <!--
 **jorgedelacruz07/jorgedelacruz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
