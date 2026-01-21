@@ -5,9 +5,7 @@
   Expert in React, Next.js, Node.js · AI-Powered Full-Stack Development
 </p>
 
----
-
-### 🚀 About Me
+## 🚀 About Me
 
 I'm a **Senior Software Engineer** with professional experience since **2016**, passionate about building modern, scalable, and user-centric web applications.
 
@@ -20,24 +18,18 @@ I'm a **Senior Software Engineer** with professional experience since **2016**, 
 
 I’m especially interested in **AI-augmented development workflows** — using tools like **Cursor** to boost productivity, improve code quality, and ship faster.
 
----
-
-### 🌱 What I'm Working On
+## 🌱 What I'm Working On
 
 - Enhancing **user experience** and **performance** through better architecture and design.
 - Driving key features that impact **engagement**, **retention**, and **metrics**.
 - Building tools and practices that scale in fast-paced, product-driven teams.
 
----
-
-### 🧠 Philosophy
+## 🧠 Philosophy
 
 > _"I believe in writing clean, maintainable code that balances performance, design, and usability."_  
 > _"As a proud builder from the public university system, I know the value of resilience, community, and accessible knowledge."_
 
----
-
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 - 🔗 **Portfolio:** [jorgedelacruzpadilla.dev](https://jorgedelacruzpadilla.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/jorgedelacruz07](https://linkedin.com/in/jorgedelacruz07)
