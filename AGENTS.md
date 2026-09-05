@@ -34,6 +34,12 @@ jorgedelacruz07/
 
 ## Checks (manual, no build)
 
+For changes to AI instructions only, check local references and `git diff --check`;
+do not rewrite the public profile or invent a new canonical choice. When editing
+public claims, distinguish user-provided facts from independently verified facts.
+Report external links as unverified if no network check was performed.
+
+
 - Verify every badge/link renders and resolves.
 - Verify GitHub-flavored Markdown renders (tables, HTML blocks, alignment).
 - Keep the stack/skills list in sync with reality.
@@ -52,5 +58,5 @@ jorgedelacruz07/
 ## Obsidian project note
 
 Narrative context, decisions, prompts:
-`/Users/jorgedelacruzp/Projects/Jorge's Vault/02-Projects/jorgedelacruz07/jorgedelacruz07.md`
+`$HOME/Projects/Jorge's Vault/02-Projects/jorgedelacruz07/jorgedelacruz07.md`
 Repo-local entrypoints: `.ai/context.md`, `.ai/workflows.md`, `.ai/prompts.md`.

@@ -6,8 +6,7 @@
 ```
 Audit the profile content (README.md + README.alternative.md), read-only. Check every
 badge/link, compare the two READMEs and flag drift, flag stale/inconsistent claims
-(stack, role, employer), and assess structure/skimmability/tone. Recommend a canonical
-README. Output a prioritized improvement backlog. Do not fabricate facts.
+(stack, role, employer), and assess structure/skimmability/tone. Keep README.md canonical; evaluate consistency with the alternative. Output a prioritized improvement backlog. Do not fabricate facts.
 ```
 
 ## 2. Safe refactor (rewrite)
@@ -21,7 +20,7 @@ before/after summary.
 ## 3. Bugfix (content)
 ```
 Fix this content issue: <broken badge / dead link / rendering glitch / stale claim>.
-Reproduce, apply the minimal fix, and fix both READMEs if both are affected. Verify
+Reproduce, apply the minimal fix, and edit the alternative only if the request includes it; otherwise report the drift. Verify
 Markdown renders and links resolve. Don't touch unrelated sections. Summarize changes.
 ```
 

@@ -23,12 +23,12 @@ for a Senior Software Engineer. Content artifact, not an application.
 - Broken badges/links (shields.io or external URLs that 404).
 - Staleness — outdated stack, role, or employer claims.
 - Inconsistency — the two READMEs drifting in tone/facts.
-- Open: which README is canonical; keep or archive `README.alternative.md`;
-  static vs dynamic GitHub stats.
+- `README.md` is canonical. Keeping/archiving the alternative or adding dynamic
+  GitHub stats is a separate editorial decision.
 
 ## Important local paths
 
-- Root: `/Users/jorgedelacruzp/Projects/jorgedelacruz07`
+- Root: `$HOME/Projects/jorgedelacruz07`
 - `README.md`, `README.alternative.md`
 
 ## Related Obsidian notes

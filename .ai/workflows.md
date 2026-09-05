@@ -4,7 +4,7 @@
 
 ## Bugfix (broken badge / link / rendering / stale claim)
 
-1. Reproduce the issue. 2. Apply the minimal fix; fix both READMEs if both affected.
+1. Reproduce the issue. 2. Apply the minimal fix; report any issue in the alternative; edit it only when included in the request.
 3. Verify links/badges resolve and Markdown renders. Summarize changed lines.
 
 ## Refactor (restructure / rewrite)

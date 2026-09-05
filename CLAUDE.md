@@ -13,7 +13,7 @@ Claude Code working rules for the GitHub profile README repo. See `AGENTS.md` an
 ## "Bug" fixes (broken badge / link / rendering / stale claim)
 
 1. Reproduce (dead link target, malformed Markdown, wrong fact).
-2. Apply the minimal fix; if the issue exists in both READMEs, fix both consistently.
+2. Apply the minimal fix; edit the alternative only when the request includes it; otherwise report the drift.
 3. Verify badges/links resolve and Markdown renders. Summarize changed lines.
 
 ## "Refactors" (restructure / rewrite)
