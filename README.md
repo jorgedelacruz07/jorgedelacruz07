@@ -58,6 +58,76 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
 
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 FinTracking</h3>
+      <p>Personal finance platform with a web app (PWA), an API, and a native mobile client for iOS and Android.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <br /><br />
+      <a href="https://fintracking.app">🔗 fintracking.app</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio &amp; CMS</h3>
+      <p>Personal portfolio with a small content system and blog, focused on SEO, performance, and UX.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <br /><br />
+      <a href="https://jorgedelacruzpadilla.dev">🔗 jorgedelacruzpadilla.dev</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 UnaLuka</h3>
+      <p>Price tracker for tech products across Peruvian retailers: scraping, price-history snapshots, and price-drop notifications.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <br /><br />
+      <sub>🔒 Private repository</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ AcademyDB</h3>
+      <p>Long-running full-stack product with an independent API and client, built with an AI-assisted roadmap and prompt-queue workflow. Details are kept private.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/API-Backend-111111?style=flat-square" alt="API" />
+      <img src="https://img.shields.io/badge/Client-Frontend-111111?style=flat-square" alt="Client" />
+      <br /><br />
+      <sub>🔒 Private repository</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>💡 IdeaDesk</h3>
+      <p>Personal prototype to capture and discuss ideas per project from a phone, turning them into planning briefs and Kanban cards that feed an AI-agent roadmap workflow.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <br /><br />
+      <sub>🔒 Private repository</sub>
+    </td>
+  </tr>
+</table>
+
+## 🤖 AI-Augmented Engineering
+
+I treat AI agents as part of the engineering workflow, with explicit guardrails rather than blind automation.
+
+| 🧭 Roadmap skills                                       | 📝 Prompt skills                                                            | 🕹️ Agent management                                                             | 🛡️ Guardrails                                                                               |
+| :------------------------------------------------------ | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------ |
+| Structured roadmaps turned into queued, reviewable work | Self-contained, versioned prompt files with naming contracts and validation | Per-project agent instructions (`AGENTS.md`), shared context, and handoff notes | Human review before commit or push, read-only agent modes, and no secrets exposed to agents |
+
+<sub>Tooling across Claude Code, Codex, and Gemini/Antigravity-style agents, plus an Obsidian vault for project knowledge.</sub>
+
 ## 🧠 Engineering Principles
 
 - 🔍 Build for clarity first, then scale with intention
