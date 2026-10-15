@@ -1,12 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=180&section=header&text=Jorge%20De%20la%20Cruz%20Padilla&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=18&descAlignY=58" alt="Jorge De la Cruz Padilla — Senior Software Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=180&section=header&text=Jorge%20De%20la%20Cruz%20Padilla&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=18&descAlignY=58" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:C4B5FD,100:A5B4FC&height=180&section=header&text=Jorge%20De%20la%20Cruz%20Padilla&fontColor=1E1B4B&fontSize=38&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=18&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=180&section=header&text=Jorge%20De%20la%20Cruz%20Padilla&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=18&descAlignY=58" alt="Jorge De la Cruz Padilla — Senior Software Engineer" />
+</picture>
 
 <div align="center">
 
 **Building web products since 2016 · Based in Peru 🇵🇪**
 
 <a href="https://jorgedelacruzpadilla.dev"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/jorgedelacruz07"><img src="https://img.shields.io/badge/LinkedIn-Jorge%20De%20la%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jorgedelacruz07/"><img src="https://img.shields.io/badge/LinkedIn-Jorge%20De%20la%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/jorgedelacruz07"><img src="https://img.shields.io/badge/GitHub-jorgedelacruz07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/jorgedlcpdev"><img src="https://img.shields.io/badge/X-@jorgedlcpdev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=jorgedelacruz07&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -31,32 +38,28 @@
 
 ## ⚙️ Core Stack
 
-**Primary**
+> ⭐ **Daily drivers** — the tools I reach for first.
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<div align="center">
 
-**Additional**
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt.js" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless Framework" />
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-<img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="Cognito" />
-<img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="SQS" />
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</div>
+
+**Also in my toolbox**
+
+| Area               | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎨 **Frontend**    | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />                                                                                                                                                                                                                                                                                                                                                                   |
+| ⚙️ **Backend**     | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />                                                                                                                                                                                                                                     |
+| ☁️ **Cloud (AWS)** | <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" /> <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="Cognito" /> <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="SQS" /> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" /> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="EC2" /> |
+| 🗄️ **Databases**   | <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />                                                                                                  |
 
 ## 📌 Featured Projects
 
@@ -102,7 +105,7 @@
       <img src="https://img.shields.io/badge/API-Backend-111111?style=flat-square" alt="API" />
       <img src="https://img.shields.io/badge/Client-Frontend-111111?style=flat-square" alt="Client" />
       <br /><br />
-      <sub>🔒 Private repository</sub>
+      <a href="https://academydb.com">🔗 academydb.com</a> · <sub>🔒 Private repository</sub>
     </td>
   </tr>
   <tr>
@@ -143,10 +146,23 @@ I treat AI agents as part of the engineering workflow, with explicit guardrails 
 - Contributed to platforms used in e-commerce, insurance, education, ticketing, and business operations
 - Evolved across stacks over time, from early Vue and PHP systems to React, Next.js, Node.js, and TypeScript-driven development
 
+## 🐦 Latest from X
+
+<a href="https://x.com/jorgedlcpdev">
+  <img src="https://img.shields.io/badge/Follow%20%40jorgedlcpdev-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @jorgedlcpdev on X" />
+</a>
+
+I share notes on engineering, AI agents, and what I'm building. Read the latest posts and join the conversation on [X](https://x.com/jorgedlcpdev).
+
 ## 🤝 Connect
 
 - 🌐 Portfolio: [jorgedelacruzpadilla.dev](https://jorgedelacruzpadilla.dev)
-- 💼 LinkedIn: [linkedin.com/in/jorgedelacruz07](https://www.linkedin.com/in/jorgedelacruz07)
+- 💼 LinkedIn: [linkedin.com/in/jorgedelacruz07](https://www.linkedin.com/in/jorgedelacruz07/)
 - 🐙 GitHub: [github.com/jorgedelacruz07](https://github.com/jorgedelacruz07)
+- 𝕏 X: [@jorgedlcpdev](https://x.com/jorgedlcpdev)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=100&section=footer" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A5B4FC,50:C4B5FD,100:DBEAFE&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=100&section=footer" alt="" />
+</picture>
