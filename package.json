@@ -1,0 +1,13 @@
+{
+  "name": "jorgedelacruz07-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README for jorgedelacruz07",
+  "scripts": {
+    "format": "prettier --write \"*.md\" \"*.json\" \".prettierrc.json\"",
+    "format:check": "prettier --check \"*.md\" \"*.json\""
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}

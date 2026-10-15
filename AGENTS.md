@@ -39,7 +39,6 @@ do not rewrite the public profile or invent a new canonical choice. When editing
 public claims, distinguish user-provided facts from independently verified facts.
 Report external links as unverified if no network check was performed.
 
-
 - Verify every badge/link renders and resolves.
 - Verify GitHub-flavored Markdown renders (tables, HTML blocks, alignment).
 - Keep the stack/skills list in sync with reality.
