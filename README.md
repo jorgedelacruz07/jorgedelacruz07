@@ -13,8 +13,6 @@
 <a href="https://github.com/jorgedelacruz07"><img src="https://img.shields.io/badge/GitHub-jorgedelacruz07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/jorgedlcpdev"><img src="https://img.shields.io/badge/X-@jorgedlcpdev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=jorgedelacruz07&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 <br />
