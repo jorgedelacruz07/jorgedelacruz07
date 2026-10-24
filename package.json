@@ -5,7 +5,9 @@
   "description": "GitHub profile README for jorgedelacruz07",
   "scripts": {
     "format": "prettier --write \"*.md\" \"*.json\" \".prettierrc.json\"",
-    "format:check": "prettier --check \"*.md\" \"*.json\""
+    "format:check": "prettier --check \"*.md\" \"*.json\"",
+    "lint": "npm run format:check && git diff --check",
+    "quick": "npm run lint"
   },
   "devDependencies": {
     "prettier": "^3.3.3"

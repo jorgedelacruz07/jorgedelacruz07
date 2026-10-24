@@ -13,7 +13,8 @@ artifact, not an application.
 ## Stack summary
 
 - **Content only:** GitHub-flavored Markdown + shields.io badges.
-- **No** package manager, build system, dependencies, or runtime.
+- Node 26 (mise / `.nvmrc`) and Prettier are used only for repository maintenance.
+- No application runtime, compilation step, or deployment service.
 - The TypeScript preference is **not applicable** here (no code).
 
 ## Repository structure
