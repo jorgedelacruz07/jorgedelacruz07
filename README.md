@@ -25,7 +25,8 @@
 
 - 👨‍💻 Senior Software Engineer with experience across product teams, platform work, and business-critical web applications
 - 💬 Background in messaging and web communication products, e-commerce, admin and backoffice systems, insurance, education, ticketing, and internal performance platforms
-- 🏢 Experience contributing to work related to GoDaddy through Encora, with a focus on improving product design and web functionality
+- 🏢 Senior Software Engineer at Coforge, contributing to OPIS (Dow Jones) through a client engagement
+- 💼 Previously contributed to GoDaddy through Encora, with a focus on product design and web functionality
 - 🤖 Interested in AI-augmented development workflows, product thinking, UX, clean architecture, maintainable systems, and performance
 
 ## 🛠️ What I Build
@@ -61,63 +62,46 @@
 
 ## 📌 Featured Projects
 
+<!-- portfolio-projects:start -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💸 FinTracking</h3>
-      <p>Personal finance platform with a web app (PWA), an API, and a native mobile client for iOS and Android.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <br /><br />
-      <a href="https://fintracking.app">🔗 fintracking.app</a>
+      <h3>FinTracking</h3>
+      <p>Personal finance platform for tracking income, expenses, debts and wealth, with a React PWA, a TypeScript API and an Expo mobile client.</p>
+      <p><strong>Stack:</strong> TypeScript · React.js · Node.js · Express.js · MongoDB · Vite.js · Expo</p>
+      <a href="https://fintracking.app">Visit FinTracking</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Portfolio &amp; CMS</h3>
-      <p>Personal portfolio with a small content system and blog, focused on SEO, performance, and UX.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <br /><br />
-      <a href="https://jorgedelacruzpadilla.dev">🔗 jorgedelacruzpadilla.dev</a>
+      <h3>AcademyDB</h3>
+      <p>University admission exam preparation platform with question practice, spaced repetition and independent TypeScript web and API applications.</p>
+      <p><strong>Stack:</strong> TypeScript · React.js · Node.js · Express.js · MongoDB</p>
+      <a href="https://academydb.com">Visit AcademyDB</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 UnaLuka</h3>
-      <p>Price tracker for tech products across Peruvian retailers: scraping, price-history snapshots, and price-drop notifications.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <br /><br />
-      <sub>🔒 Private repository</sub>
+      <h3>IdeaDesk</h3>
+      <p>Personal tool for capturing ideas, discussing decisions and turning reviewed briefs into project plans and Kanban work.</p>
+      <p><strong>Stack:</strong> TypeScript · SolidJS · Vite.js · SQLite</p>
+      <sub>No public demo · Private repository</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🏗️ AcademyDB</h3>
-      <p>Long-running full-stack product with an independent API and client, built with an AI-assisted roadmap and prompt-queue workflow. Details are kept private.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/API-Backend-111111?style=flat-square" alt="API" />
-      <img src="https://img.shields.io/badge/Client-Frontend-111111?style=flat-square" alt="Client" />
-      <br /><br />
-      <a href="https://academydb.com">🔗 academydb.com</a> · <sub>🔒 Private repository</sub>
+      <h3>Portfolio &amp; CMS</h3>
+      <p>Personal portfolio and content management system built with React, TypeScript, Express and MongoDB, with public project pages and passwordless administration.</p>
+      <p><strong>Stack:</strong> TypeScript · React.js · Node.js · Express.js · MongoDB · Vite.js</p>
+      <a href="https://jorgedelacruzpadilla.dev">Visit Portfolio &amp; CMS</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>💡 IdeaDesk</h3>
-      <p>Personal prototype to capture and discuss ideas per project from a phone, turning them into planning briefs and Kanban cards that feed an AI-agent roadmap workflow.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <br /><br />
-      <sub>🔒 Private repository</sub>
+      <h3>UnaLuka</h3>
+      <p>Paused price-tracking project for Peruvian tech retailers, built with a Python/FastAPI API, a React PWA and Supabase.</p>
+      <p><strong>Stack:</strong> Python · FastAPI · React.js · TypeScript · Supabase</p>
+      <sub>No public demo · Private repository</sub>
     </td>
   </tr>
 </table>
+<!-- portfolio-projects:end -->
 
 ## 🤖 AI-Augmented Engineering
 
